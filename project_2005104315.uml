@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>4fac99aa-e17f-47d9-8261-757fcdf32ef0.DATABASE:project_2005104315</OriginalElement>
+  <nodes>
+    <node x="3994.6378205128194" y="737.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_event_type</node>
+    <node x="1511.7628205128194" y="0.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.country</node>
+    <node x="225.0" y="390.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_department</node>
+    <node x="1277.9863782051277" y="390.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_renewal_status</node>
+    <node x="1901.0128205128194" y="1001.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job_apply</node>
+    <node x="992.9166666666667" y="671.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.experience</node>
+    <node x="2045.7628205128194" y="737.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.invitation_status</node>
+    <node x="722.9166666666667" y="737.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_event_type</node>
+    <node x="2743.7628205128194" y="979.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.comment</node>
+    <node x="15.0" y="379.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation</node>
+    <node x="3388.8878205128194" y="1012.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_text</node>
+    <node x="84.65304487179446" y="726.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation_department</node>
+    <node x="1446.9166666666667" y="693.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_renewal</node>
+    <node x="3812.304487179486" y="390.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_status</node>
+    <node x="3765.6378205128194" y="704.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.conn</node>
+    <node x="2337.416666666667" y="1189.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_comment_reaction</node>
+    <node x="2828.666666666667" y="1189.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_entry_reaction</node>
+    <node x="874.4655448717945" y="179.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.sector</node>
+    <node x="948.1530448717945" y="357.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.company</node>
+    <node x="2267.7628205128194" y="968.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.invitation</node>
+    <node x="1242.1378205128196" y="968.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_event</node>
+    <node x="213.8044871794864" y="968.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_attachment</node>
+    <node x="3820.8878205128194" y="979.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_event</node>
+    <node x="3152.8878205128194" y="1001.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_url</node>
+    <node x="2485.7628205128194" y="1012.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.reaction_type</node>
+    <node x="2596.0128205128194" y="660.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event</node>
+    <node x="3220.375" y="715.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry</node>
+    <node x="3310.9671474358975" y="390.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_job</node>
+    <node x="1231.9166666666667" y="693.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job</node>
+    <node x="534.9431089743584" y="390.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_status</node>
+    <node x="2289.9503205128194" y="179.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_type</node>
+    <node x="834.9294871794864" y="990.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_edu_department</node>
+    <node x="3600.8878205128194" y="1012.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_image</node>
+    <node x="2194.2628205128194" y="324.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user</node>
+    <node x="3004.8878205128194" y="1012.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_event</node>
+    <node x="523.9166666666667" y="704.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim</node>
+    <node x="1541.7628205128194" y="168.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.city</node>
+    <node x="2313.7628205128194" y="704.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_token</node>
+    <node x="2924.9431089743584" y="390.0">4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event_type</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_renewal" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_renewal_status">
+      <point x="-56.75" y="-81.0" />
+      <point x="1503.6666666666667" y="560.0" />
+      <point x="1412.9863782051277" y="560.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="68.0" y="-81.0" />
+      <point x="1412.1378205128196" y="948.0" />
+      <point x="1816.300480769231" y="948.0" />
+      <point x="1816.300480769231" y="620.0" />
+      <point x="2257.5128205128194" y="620.0" />
+      <point x="-40.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.conn">
+      <point x="0.0" y="-70.0" />
+      <point x="3941.3878205128194" y="948.0" />
+      <point x="3870.1378205128194" y="948.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.company">
+      <point x="-48.75" y="-81.0" />
+      <point x="1280.6666666666667" y="560.0" />
+      <point x="1104.819711538461" y="560.0" />
+      <point x="62.66666666666663" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_renewal" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="56.75" y="-81.0" />
+      <point x="1617.1666666666667" y="600.0" />
+      <point x="2234.5128205128194" y="600.0" />
+      <point x="-63.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event">
+      <point x="-31.75" y="-37.0" />
+      <point x="3036.6378205128194" y="908.0" />
+      <point x="2758.0128205128194" y="908.0" />
+      <point x="54.0" y="114.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_comment_reaction" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-60.0" y="-59.0" />
+      <point x="2367.416666666667" y="1169.0" />
+      <point x="1890.5128205128194" y="1169.0" />
+      <point x="1890.5128205128194" y="630.0" />
+      <point x="2269.0128205128194" y="630.0" />
+      <point x="-28.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="48.75" y="-81.0" />
+      <point x="1378.1666666666667" y="590.0" />
+      <point x="2223.0128205128194" y="590.0" />
+      <point x="-74.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-80.33333333333348" y="-70.0" />
+      <point x="3861.054487179486" y="928.0" />
+      <point x="3623.5280448717945" y="928.0" />
+      <point x="3623.5280448717945" y="590.0" />
+      <point x="2372.5128205128194" y="590.0" />
+      <point x="74.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.comment" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry">
+      <point x="50.75" y="-70.0" />
+      <point x="2896.0128205128194" y="918.0" />
+      <point x="3235.2916666666665" y="918.0" />
+      <point x="-74.58333333333348" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.experience" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="54.75" y="-103.0" />
+      <point x="1157.1666666666667" y="580.0" />
+      <point x="2211.5128205128194" y="580.0" />
+      <point x="-86.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.conn" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-69.66666666666652" y="-70.0" />
+      <point x="3800.471153846153" y="580.0" />
+      <point x="2384.0128205128194" y="580.0" />
+      <point x="86.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_attachment" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim">
+      <point x="0.0" y="-81.0" />
+      <point x="317.3044871794864" y="948.0" />
+      <point x="568.6666666666667" y="948.0" />
+      <point x="-44.75" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.company" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.city">
+      <point x="47.0" y="-70.0" />
+      <point x="1089.1530448717945" y="304.0" />
+      <point x="1602.1378205128194" y="304.0" />
+      <point x="-20.125" y="48.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.conn" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_status">
+      <point x="69.66666666666652" y="-70.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_status">
+      <point x="-59.66666666666666" y="-70.0" />
+      <point x="553.75" y="550.0" />
+      <point x="639.9431089743584" y="550.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_comment_reaction" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.comment">
+      <point x="60.0" y="-59.0" />
+      <point x="2487.416666666667" y="1169.0" />
+      <point x="2896.0128205128194" y="1169.0" />
+      <point x="50.75" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_entry_reaction" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.reaction_type">
+      <point x="-60.0" y="-59.0" />
+      <point x="2858.666666666667" y="1159.0" />
+      <point x="2649.2628205128194" y="1159.0" />
+      <point x="54.5" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_text" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry">
+      <point x="0.0" y="-37.0" />
+      <point x="3484.8878205128194" y="948.0" />
+      <point x="3354.625" y="948.0" />
+      <point x="44.75" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.experience" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.company">
+      <point x="-54.75" y="-103.0" />
+      <point x="1047.6666666666667" y="560.0" />
+      <point x="1042.1530448717945" y="560.0" />
+      <point x="0.0" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.city" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.country">
+      <point x="0.0" y="-48.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_url" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry">
+      <point x="0.0" y="-48.0" />
+      <point x="3260.8878205128194" y="948.0" />
+      <point x="3324.7916666666665" y="948.0" />
+      <point x="14.916666666666515" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry">
+      <point x="31.75" y="-37.0" />
+      <point x="3100.1378205128194" y="928.0" />
+      <point x="3265.125" y="928.0" />
+      <point x="-44.75" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-72.0" y="-114.0" />
+      <point x="2632.0128205128194" y="620.0" />
+      <point x="2338.0128205128194" y="620.0" />
+      <point x="40.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.company" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.sector">
+      <point x="-47.0" y="-70.0" />
+      <point x="995.1530448717945" y="284.0" />
+      <point x="959.4655448717945" y="284.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.comment" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-50.75" y="-70.0" />
+      <point x="2794.5128205128194" y="938.0" />
+      <point x="2585.5128205128194" y="938.0" />
+      <point x="2585.5128205128194" y="630.0" />
+      <point x="2326.5128205128194" y="630.0" />
+      <point x="28.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim">
+      <point x="-68.0" y="-81.0" />
+      <point x="1276.1378205128196" y="928.0" />
+      <point x="658.1666666666667" y="928.0" />
+      <point x="44.75" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.invitation" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event">
+      <point x="74.25" y="-81.0" />
+      <point x="2441.0128205128194" y="948.0" />
+      <point x="2650.0128205128194" y="948.0" />
+      <point x="-54.0" y="114.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.invitation" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.invitation_status">
+      <point x="-74.25" y="-81.0" />
+      <point x="2292.5128205128194" y="948.0" />
+      <point x="2163.7628205128194" y="948.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.city">
+      <point x="0.0" y="-48.0" />
+      <point x="110.0" y="294.0" />
+      <point x="1561.8878205128194" y="294.0" />
+      <point x="-60.375" y="48.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.invitation" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-24.75" y="-81.0" />
+      <point x="2342.0128205128194" y="938.0" />
+      <point x="2292.2628205128194" y="938.0" />
+      <point x="-5.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.auth_token" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="0.0" y="-70.0" />
+      <point x="2404.2628205128194" y="640.0" />
+      <point x="2315.0128205128194" y="640.0" />
+      <point x="17.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job_apply" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="44.75" y="-48.0" />
+      <point x="2035.2628205128194" y="640.0" />
+      <point x="2280.5128205128194" y="640.0" />
+      <point x="-17.25" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_entry_reaction" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry">
+      <point x="60.0" y="-59.0" />
+      <point x="2978.666666666667" y="1169.0" />
+      <point x="3142.3878205128194" y="1169.0" />
+      <point x="3142.3878205128194" y="938.0" />
+      <point x="3294.9583333333335" y="938.0" />
+      <point x="-14.916666666666515" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation_department" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation">
+      <point x="-68.0" y="-48.0" />
+      <point x="152.65304487179446" y="640.0" />
+      <point x="110.0" y="640.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.connection_event_type">
+      <point x="80.33333333333348" y="-70.0" />
+      <point x="4021.721153846153" y="948.0" />
+      <point x="4127.637820512819" y="948.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.city">
+      <point x="0.0" y="-114.0" />
+      <point x="2704.0128205128194" y="630.0" />
+      <point x="2914.4431089743584" y="630.0" />
+      <point x="2914.4431089743584" y="294.0" />
+      <point x="1682.6378205128194" y="294.0" />
+      <point x="60.375" y="48.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.comment" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.comment">
+      <point x="-50.75" y="70.0" />
+      <point x="2794.5128205128194" y="1139.0" />
+      <point x="2723.7628205128194" y="1139.0" />
+      <point x="2723.7628205128194" y="1049.0" />
+      <point x="-101.5" y="-0.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.company">
+      <point x="0.0" y="-70.0" />
+      <point x="613.4166666666667" y="560.0" />
+      <point x="979.486378205128" y="560.0" />
+      <point x="-62.66666666666663" y="70.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation_department" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_department">
+      <point x="68.0" y="-48.0" />
+      <point x="288.65304487179446" y="640.0" />
+      <point x="331.0" y="640.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="59.666666666666686" y="-70.0" />
+      <point x="673.0833333333335" y="570.0" />
+      <point x="2200.0128205128194" y="570.0" />
+      <point x="-97.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.claim_event_type">
+      <point x="0.0" y="-81.0" />
+      <point x="1344.1378205128196" y="918.0" />
+      <point x="847.9166666666667" y="918.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_edu_department" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="68.0" y="-59.0" />
+      <point x="1038.9294871794864" y="938.0" />
+      <point x="1684.4166666666667" y="938.0" />
+      <point x="1684.4166666666667" y="610.0" />
+      <point x="2246.0128205128194" y="610.0" />
+      <point x="-51.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job_apply" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.job">
+      <point x="-44.75" y="-48.0" />
+      <point x="1945.7628205128194" y="908.0" />
+      <point x="1329.4166666666667" y="908.0" />
+      <point x="0.0" y="81.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_type">
+      <point x="51.75" y="-103.0" />
+      <point x="2349.5128205128194" y="304.0" />
+      <point x="2385.9503205128194" y="304.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_image" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry">
+      <point x="0.0" y="-37.0" />
+      <point x="3700.8878205128194" y="938.0" />
+      <point x="3384.4583333333335" y="938.0" />
+      <point x="74.58333333333348" y="59.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_entry_reaction" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="0.0" y="-59.0" />
+      <point x="2918.666666666667" y="1159.0" />
+      <point x="2994.3878205128194" y="1159.0" />
+      <point x="2994.3878205128194" y="610.0" />
+      <point x="2349.5128205128194" y="610.0" />
+      <point x="51.75" y="103.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry_job">
+      <point x="44.75" y="-59.0" />
+      <point x="3354.625" y="640.0" />
+      <point x="3373.4671474358975" y="640.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_comment_reaction" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.reaction_type">
+      <point x="0.0" y="-59.0" />
+      <point x="2427.416666666667" y="1159.0" />
+      <point x="2540.2628205128194" y="1159.0" />
+      <point x="-54.5" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.event_type">
+      <point x="72.0" y="-114.0" />
+      <point x="2776.0128205128194" y="640.0" />
+      <point x="3024.9431089743584" y="640.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user_edu_department" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.edu_foundation_department">
+      <point x="-68.0" y="-59.0" />
+      <point x="902.9294871794864" y="938.0" />
+      <point x="220.65304487179446" y="938.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.city">
+      <point x="-51.75" y="-103.0" />
+      <point x="2246.0128205128194" y="304.0" />
+      <point x="1642.3878205128194" y="304.0" />
+      <point x="20.125" y="48.0" />
+    </edge>
+    <edge source="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.entry" target="4fac99aa-e17f-47d9-8261-757fcdf32ef0.TABLE:project_2005104315.dbo.user">
+      <point x="-44.75" y="-59.0" />
+      <point x="3265.125" y="600.0" />
+      <point x="2361.0128205128194" y="600.0" />
+      <point x="63.25" y="103.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.242903676128432" x="2319.9842755522277" y="286.7452953097858" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+
